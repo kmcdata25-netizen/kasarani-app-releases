@@ -7,6 +7,6 @@ The Kasarani Music Center application checks `version.json` in this repository o
 
 ### Latest Release
 - **App Name**: Kasarani Music Center
-- **Version**: 1.0.8 (Build 9)
+- **Version**: 1.0.9 (Build 10)
 - **Package ID**: `com.example.kasarani_music_school`
 - **Signing Keystore**: Kasarani Production Keystore (2048-bit RSA, APK v2 Scheme)
