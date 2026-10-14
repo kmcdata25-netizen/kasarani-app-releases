@@ -1,7 +1,7 @@
 {
   "latest_version": "1.0.10",
-  "latest_build_number": 15,
-  "apk_url": "https://github.com/kmcdata25-netizen/kasarani-app-releases/releases/download/v1.0.10/Kasarani_Music_Center_v1.0.10_b15.apk",
-  "release_notes": "v1.0.10+15 - Native In-App Agora RTC Live Classroom\n- High-definition acoustic music video/audio live stream via Agora RTC Engine\n- Automatic token generation with project security\n- In-app student Raise Hand audio uplink and PiP camera\n- Pulsing live broadcast alerts and seamless in-app joining",
+  "latest_build_number": 16,
+  "apk_url": "https://github.com/kmcdata25-netizen/kasarani-app-releases/releases/download/v1.0.10/Kasarani_Music_Center_v1.0.10_b16.apk",
+  "release_notes": "v1.0.10+16 - Continuous Two-Way Live Masterclass & Connection Telemetry HUD\n- Two-way camera & microphone live on classroom entry (student broadcast online continuously)\n- Real-time Connection Telemetry HUD pill (latency ping, 2/2 participant count, and live indicators)\n- Tap-to-open Agora Connection Inspector modal for latency, bitrates, audio engine, and token security\n- Normalized studio room channels to guarantee teacher & student land in the exact same Agora room",
   "force_update": false
 }
