@@ -1,7 +1,7 @@
 {
   "latest_version": "1.0.10",
-  "latest_build_number": 13,
-  "apk_url": "https://github.com/kmcdata25-netizen/kasarani-app-releases/releases/download/v1.0.10/Kasarani_Music_Center_v1.0.10_b13.apk",
-  "release_notes": "v1.0.10+13 - Unbroken Daraja M-Pesa STK Query Verification & Clean Music Labels\n- Genuine Safaricom Daraja STK Push Query Loop (strictly waits for real user PIN approval/cancellation with no simulation bypass)\n- Real cancellation (1032), timeout (1037), and wrong PIN feedback directly from Safaricom network\n- Removed internal engineering jargon from student-facing UI (clean music academy labels for video lessons, records, and studio)\n- Live dynamic storefront catalog streaming real merchandise, masterclasses, and e-books directly from Central Mind",
+  "latest_build_number": 14,
+  "apk_url": "https://github.com/kmcdata25-netizen/kasarani-app-releases/releases/download/v1.0.10/Kasarani_Music_Center_v1.0.10_b14.apk",
+  "release_notes": "v1.0.10+14 - Server-Authoritative M-Pesa & Realtime Live Class Delivery\n- Server-Authoritative Safaricom Daraja M-Pesa STK push via Supabase Edge Functions with secret-free client architecture and guest checkout support\n- Live Supabase Realtime synchronization across Teacher Studio and Student App\n- Instant Android system tray alerts when faculty issues or goes live in studio masterclasses\n- One-tap launch into Live Studio Class from notifications and real-time Home screen live banner",
   "force_update": false
 }
