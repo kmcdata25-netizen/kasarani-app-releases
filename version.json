@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.0.12",
-  "latest_build_number": 19,
-  "apk_url": "https://github.com/kmcdata25-netizen/kasarani-app-releases/releases/download/v1.0.12/Kasarani_Music_Center_v1.0.12_b19.apk",
-  "release_notes": "v1.0.12+19 - Pure Peer-to-Peer (P2P) WebRTC Studio Classroom ($0.00/month Unmetered)\n- Replaced proprietary Agora RTC with native flutter_webrtc powered by Supabase Realtime broadcast signaling\n- High-fidelity acoustic music audio profile (Opus Stereo 48kHz for piano, guitar, and vocal harmonics with unconstrained dynamics)\n- Animated Studio Monitor Banner for immediate 1-tap entry when faculty goes live\n- Removed legacy agora_rtc_engine binary dependency (drastically smaller APK size and faster loading)\n- Director Stealth Proctor & In-App QA Observation support",
+  "latest_version": "1.0.13",
+  "latest_build_number": 20,
+  "apk_url": "https://github.com/kmcdata25-netizen/kasarani-app-releases/releases/download/v1.0.13/Kasarani_Music_Center_v1.0.13_b20.apk",
+  "release_notes": "v1.0.13+20 - Fix WebRTC Studio Classroom Signaling & Auto-Handshake Connection\n- Resolved Supabase Realtime broadcast payload type collision (signalType isolation)\n- Added automated signaling presence heartbeat and candidate batch synchronization\n- Seamless instantaneous audio/video connection to faculty live studio\n- High-fidelity acoustic music audio profile (Opus Stereo 48kHz for piano, guitar, and vocal harmonics)",
   "force_update": false
 }
