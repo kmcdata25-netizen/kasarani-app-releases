@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.0.17",
-  "latest_build_number": 24,
-  "apk_url": "https://github.com/kmcdata25-netizen/kasarani-app-releases/releases/download/v1.0.17/Kasarani_Music_Center_v1.0.17_b24.apk",
-  "release_notes": "v1.0.17+24 - Zero Hardcoded Data Guarantee & Empty DB Differentiation\n- Completely purged hardcoded Drop-In Passes and Store items in Course Catalog and Guest Portal\n- Dynamic Supabase database integration for time_pass_tiers and store_items\n- Accurately differentiate empty database tables vs true network offline states\n- Replaced technical login stack traces with human-friendly 'Connection Required' dialog\n- Removed fake initial notification injections from notification provider",
+  "latest_version": "1.0.18",
+  "latest_build_number": 25,
+  "apk_url": "https://github.com/kmcdata25-netizen/kasarani-app-releases/releases/download/v1.0.18/Kasarani_Music_Center_v1.0.18_b25.apk",
+  "release_notes": "v1.0.18+25 - Cloudflare R2 Promotions Engine & Full Monorepo Remediation\n- Added Cloudflare R2 original marketing poster uploader with dynamic Call To Action (CTA)\n- App launch promotion poster overlay dialog with instant routing to holiday camp, courses, or store\n- Synchronized Teacher dual-ID queries across profiles and teachers relations\n- Purged synthetic defaults, fake drill submissions, fake teaching hours, and hardcoded scores across Teacher portal\n- Stripped artificial 3.8s preloader delay for instant faculty app launching\n- Zero compile and analysis issues across full monorepo",
   "force_update": false
 }
