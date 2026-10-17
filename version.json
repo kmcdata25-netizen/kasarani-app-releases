@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.0.16",
-  "latest_build_number": 23,
-  "apk_url": "https://github.com/kmcdata25-netizen/kasarani-app-releases/releases/download/v1.0.16/Kasarani_Music_Center_v1.0.16_b23.apk",
-  "release_notes": "v1.0.16+23 - 100% Mock & Hardcoded Data Purge & Supabase Central Mind Reliance\n- Purged 100% of hardcoded and mock data from course catalog, enrollments, and transactions\n- Removed demo auth fallback in favor of live Supabase authentication\n- Added professional offline empty state UX: 'Data not available. Please connect to the internet.'\n- Cleaned store, home, progress, and session media screens to strictly fetch live records from Supabase",
+  "latest_version": "1.0.17",
+  "latest_build_number": 24,
+  "apk_url": "https://github.com/kmcdata25-netizen/kasarani-app-releases/releases/download/v1.0.17/Kasarani_Music_Center_v1.0.17_b24.apk",
+  "release_notes": "v1.0.17+24 - Zero Hardcoded Data Guarantee & Empty DB Differentiation\n- Completely purged hardcoded Drop-In Passes and Store items in Course Catalog and Guest Portal\n- Dynamic Supabase database integration for time_pass_tiers and store_items\n- Accurately differentiate empty database tables vs true network offline states\n- Replaced technical login stack traces with human-friendly 'Connection Required' dialog\n- Removed fake initial notification injections from notification provider",
   "force_update": false
 }
