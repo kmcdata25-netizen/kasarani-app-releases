@@ -5,7 +5,8 @@
   "latest_build_number": 5,
   "release_date": "2026-10-17",
   "asar_url": "https://pub-6948b1af583e463d820d8e5072d205a1.r2.dev/releases/admin/app.asar",
-  "installer_url": "https://github.com/kmcdata25-netizen/archive-repo/releases/tag/v1.0.5",
+  "zip_url": "https://pub-6948b1af583e463d820d8e5072d205a1.r2.dev/releases/admin/KMC_Admin_Portal_v1.0.5_win64.zip",
+  "installer_url": "https://github.com/kmcdata25-netizen/kasarani-app-releases/releases/tag/admin-v1.0.5",
   "release_notes": "v1.0.5+5 - Remote Auto-Updater, Live Financial Ledger & Zero Mock Data\n- Added In-App Remote OTA Auto-Updater with 1-click restart\n- Eradicated hardcoded student time passes and fake teacher associations\n- Financials strictly queries verified live Safaricom M-Pesa transactions\n- Live dynamic header date and instant Supabase re-sync key",
   "force_update": false
 }
