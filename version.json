@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.0.21",
-  "latest_build_number": 28,
-  "apk_url": "https://github.com/kmcdata25-netizen/kasarani-app-releases/releases/download/v1.0.21/Kasarani_Music_Center_v1.0.21_b28.apk",
-  "release_notes": "v1.0.21+28 - 100% Mock Data Purge, Academic Progress Overhaul & Strict Supabase Canonical Ground Truth\n- Eradicated all synthetic multipliers (0.65 progress) and hardcoded metric cards across Academic & Profile\n- Replaced static curriculum modules with live Supabase lessons streaming from database\n- Fixed cache sync to treat Supabase as single source of truth; deleting records immediately clears local app\n- One-time automated purge of stale demo SharedPreferences on app launch\n- Zero static analysis issues found",
+  "latest_version": "1.0.22",
+  "latest_build_number": 29,
+  "apk_url": "https://github.com/kmcdata25-netizen/kasarani-app-releases/releases/download/v1.0.22/Kasarani_Music_Center_v1.0.22_b29.apk",
+  "release_notes": "v1.0.22+29 - Full Central Mind Relational Sync, Live Studio Banner & Enrolled Lesson Unlocking\n- Mounted real-time Teacher Live Studio Video Banner on Dashboard with UUID session matching\n- Unlocked all course lessons in SessionView for enrolled students\n- Resolved instructor names and Cloudflare R2 cover images across Catalog, Dashboard, and Live Sessions\n- Connected Academic Progress, Profile, and Dashboard metrics to live checklist evaluations & sessions\n- Unified receipt history (enrollments + M-Pesa) and added instant download/view for purchased digital store items",
   "force_update": false
 }
