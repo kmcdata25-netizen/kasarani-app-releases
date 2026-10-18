@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.0.23",
-  "latest_build_number": 30,
-  "apk_url": "https://github.com/kmcdata25-netizen/kasarani-app-releases/releases/download/v1.0.23/Kasarani_Music_Center_v1.0.23_b30.apk",
-  "release_notes": "v1.0.23+30 - Safaricom M-Pesa Payment Timeout & Input Sanitization Fix\n- Hardened M-Pesa STK push edge function against foreign key violations for store items, e-books, and time passes\n- Completely un-preoccupied phone input across Store, Timed Services, and Course checkouts with clean grey hints\n- Real-time payment verification now accepts both completed and success statuses without timeout\n- Restored instant unlocked access and auto-download for all digital PDF theory scores and materials",
+  "latest_version": "1.0.24",
+  "latest_build_number": 31,
+  "apk_url": "https://github.com/kmcdata25-netizen/kasarani-app-releases/releases/download/v1.0.24/Kasarani_Music_Center_v1.0.24_b31.apk",
+  "release_notes": "v1.0.24+31 - Video Masterclasses, Time-Rated Tutorial Streaming & Smart Guest Pass Verification\n- Strict account-scoped locking on logout: logging out immediately locks all purchased products on the device with zero leakage across accounts or guests\n- Smart Guest Pass Verification & Restoration Modal: phone & M-Pesa receipt verification with live ticking countdown, 1-click renewal, and instant digital PDF download\n- Curated Video Masterclasses on popular songs (e.g. Jehovah Is Your Name) with flexible hourly access passes (1 hr, 3 hrs, 24 hrs)\n- Persistent tutorial streaming timer banner with auto-pause and pass-exhaustion paywall upon expiry\n- Server-authoritative M-Pesa fulfillment for guests and students without requiring login or full course enrollment\n- Clean un-preoccupied phone input with subtle placeholder example e.g. +254712345678",
   "force_update": false
 }
