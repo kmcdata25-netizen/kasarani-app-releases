@@ -1,12 +1,12 @@
 {
   "app_name": "KMC Director & Administration Portal",
   "platform": "windows-x64",
-  "latest_version": "1.0.6",
-  "latest_build_number": 6,
+  "latest_version": "1.0.7",
+  "latest_build_number": 7,
   "release_date": "2026-10-18",
   "asar_url": "https://pub-6948b1af583e463d820d8e5072d205a1.r2.dev/releases/admin/app.asar",
-  "zip_url": "https://pub-6948b1af583e463d820d8e5072d205a1.r2.dev/releases/admin/KMC_Admin_Portal_v1.0.6_win64.zip",
-  "installer_url": "https://github.com/kmcdata25-netizen/kasarani-app-releases/releases/tag/admin-v1.0.6",
-  "release_notes": "v1.0.6+6 - Walk-In Student Onboarding & Faculty Discipline Assignment\n- Added Walk-In Student Onboarding counter modal with automatic sequential admission numbers (KMC-2026-XXXX)\n- Direct Supabase Auth and profile provisioning for cash/walk-in learners\n- Student-to-Teacher direct assignment and live session linking\n- Central-Mind-enforced curriculum discipline dropdown in faculty management (blocking free-text input)\n- Dedicated 'Assign Teacher' quick action on every student record",
+  "zip_url": "https://pub-6948b1af583e463d820d8e5072d205a1.r2.dev/releases/admin/KMC_Admin_Portal_v1.0.7_win64.zip",
+  "installer_url": "https://github.com/kmcdata25-netizen/kasarani-app-releases/releases/tag/admin-v1.0.7",
+  "release_notes": "v1.0.7+7 - Complete Central Mind Relational Correlation & Financial Ledger Sync\n- Resolved student-teacher relational mapping across Faculty, Students, Courses, and Timetable\n- Course creation & editing now persist instructor_id FK and synchronize syllabus modules to public.lessons\n- Walk-in admissions and manual payments synchronize across both mpesa_transactions and enrollments\n- Timetable booking resolves real teacher/student UUIDs, time slots, and kmc_studio_X WebRTC room slugs\n- Time pass granting, editing, extending (+60 min), and revoking persist directly to Supabase",
   "force_update": false
 }
