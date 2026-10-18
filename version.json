@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.0.22",
-  "latest_build_number": 29,
-  "apk_url": "https://github.com/kmcdata25-netizen/kasarani-app-releases/releases/download/v1.0.22/Kasarani_Music_Center_v1.0.22_b29.apk",
-  "release_notes": "v1.0.22+29 - Full Central Mind Relational Sync, Live Studio Banner & Enrolled Lesson Unlocking\n- Mounted real-time Teacher Live Studio Video Banner on Dashboard with UUID session matching\n- Unlocked all course lessons in SessionView for enrolled students\n- Resolved instructor names and Cloudflare R2 cover images across Catalog, Dashboard, and Live Sessions\n- Connected Academic Progress, Profile, and Dashboard metrics to live checklist evaluations & sessions\n- Unified receipt history (enrollments + M-Pesa) and added instant download/view for purchased digital store items",
+  "latest_version": "1.0.23",
+  "latest_build_number": 30,
+  "apk_url": "https://github.com/kmcdata25-netizen/kasarani-app-releases/releases/download/v1.0.23/Kasarani_Music_Center_v1.0.23_b30.apk",
+  "release_notes": "v1.0.23+30 - Safaricom M-Pesa Payment Timeout & Input Sanitization Fix\n- Hardened M-Pesa STK push edge function against foreign key violations for store items, e-books, and time passes\n- Completely un-preoccupied phone input across Store, Timed Services, and Course checkouts with clean grey hints\n- Real-time payment verification now accepts both completed and success statuses without timeout\n- Restored instant unlocked access and auto-download for all digital PDF theory scores and materials",
   "force_update": false
 }
