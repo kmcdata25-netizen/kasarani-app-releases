@@ -1,12 +1,12 @@
 {
   "app_name": "KMC Director & Administration Portal",
   "platform": "windows-x64",
-  "latest_version": "1.0.5",
-  "latest_build_number": 5,
-  "release_date": "2026-10-17",
+  "latest_version": "1.0.6",
+  "latest_build_number": 6,
+  "release_date": "2026-10-18",
   "asar_url": "https://pub-6948b1af583e463d820d8e5072d205a1.r2.dev/releases/admin/app.asar",
-  "zip_url": "https://pub-6948b1af583e463d820d8e5072d205a1.r2.dev/releases/admin/KMC_Admin_Portal_v1.0.5_win64.zip",
-  "installer_url": "https://github.com/kmcdata25-netizen/kasarani-app-releases/releases/tag/admin-v1.0.5",
-  "release_notes": "v1.0.5+5 - Remote Auto-Updater, Live Financial Ledger & Zero Mock Data\n- Added In-App Remote OTA Auto-Updater with 1-click restart\n- Eradicated hardcoded student time passes and fake teacher associations\n- Financials strictly queries verified live Safaricom M-Pesa transactions\n- Live dynamic header date and instant Supabase re-sync key",
+  "zip_url": "https://pub-6948b1af583e463d820d8e5072d205a1.r2.dev/releases/admin/KMC_Admin_Portal_v1.0.6_win64.zip",
+  "installer_url": "https://github.com/kmcdata25-netizen/kasarani-app-releases/releases/tag/admin-v1.0.6",
+  "release_notes": "v1.0.6+6 - Walk-In Student Onboarding & Faculty Discipline Assignment\n- Added Walk-In Student Onboarding counter modal with automatic sequential admission numbers (KMC-2026-XXXX)\n- Direct Supabase Auth and profile provisioning for cash/walk-in learners\n- Student-to-Teacher direct assignment and live session linking\n- Central-Mind-enforced curriculum discipline dropdown in faculty management (blocking free-text input)\n- Dedicated 'Assign Teacher' quick action on every student record",
   "force_update": false
 }
