@@ -1,12 +1,12 @@
 {
   "app_name": "KMC Director & Administration Portal",
   "platform": "windows-x64",
-  "latest_version": "1.0.11",
-  "latest_build_number": 11,
+  "latest_version": "1.0.12",
+  "latest_build_number": 12,
   "release_date": "2026-10-19",
   "asar_url": "https://pub-6948b1af583e463d820d8e5072d205a1.r2.dev/releases/admin/app.asar",
-  "zip_url": "https://pub-6948b1af583e463d820d8e5072d205a1.r2.dev/releases/admin/KMC_Admin_Portal_v1.0.11_win64.zip",
-  "installer_url": "https://github.com/kmcdata25-netizen/kasarani-app-releases/releases/tag/admin-v1.0.11",
-  "release_notes": "v1.0.11+11 - Two-Tier Link Destination Engine & Zero-Fluff Deep-Linking for Promotional Posters\n- Deep-Linking Destination Selector: In Promotions & Posters engine, select exact live database items across Song Tutorials (lessons where time_pass_enabled = true), Academic Courses, Time Pass Tiers, Store Products/E-books, and General App Sections.\n- Auto-Suggest CTA Label: Intelligent 1-click CTA button copy generator tailored specifically to the selected course, tutorial, or store item.\n- Real-time Destination Badge: Campaign roster displays human-readable destination tags with deep-link resolution directly querying Central Mind.\n- Eradicated Static Data: Completely purged synthetic academic lesson leaks from guest catalog.",
+  "zip_url": "https://pub-6948b1af583e463d820d8e5072d205a1.r2.dev/releases/admin/KMC_Admin_Portal_v1.0.12_win64.zip",
+  "installer_url": "https://github.com/kmcdata25-netizen/kasarani-app-releases/releases/tag/admin-v1.0.12",
+  "release_notes": "v1.0.12+12 - Live Sessions Matrix & Studio Utilization Integrity Overhaul\n- Zero Phantom Live Sessions: Completely wiped test/stale entries from Central Mind live_sessions table.\n- Student Onboarding & Teacher Assignment Isolation: Eradicated artificial side-effect inserts into live_sessions during walk-in onboarding and faculty assignment.\n- Strict Studio Room In-Session Metric: Studio utilization KPI strictly counts currently active live sessions within their scheduled duration window (0/5 when idle).\n- Automatic Session Expiry: Stale live sessions exceeding duration + 30m are automatically marked completed in the database.\n- Pure WebRTC Legacy Cleanup: Purged obsolete Jitsi references and dead launch code across teacher and admin services.",
   "force_update": false
 }
