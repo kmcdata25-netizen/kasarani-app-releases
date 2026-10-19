@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.0.29",
-  "latest_build_number": 36,
-  "apk_url": "https://github.com/kmcdata25-netizen/kasarani-app-releases/releases/download/v1.0.29/Kasarani_Music_Center_v1.0.29_b36.apk",
-  "release_notes": "v1.0.29+36 - Promotional Deep-Linking & Complete Purge of Synthetic Video Tutorials from Public Catalog\n- Eradicated Static Data: 100% eliminated fake/synthetic video tutorials and syllabus lesson fallbacks from the public catalog; strictly renders genuine database guest tutorials with verified time_pass_enabled = true.\n- Default Public Catalog View: Set 'All Items' as the primary first view displaying authentic digital music books and student store merchandise.\n- Dynamic Poster Deep-Linking: Launch posters now deep-link directly to specific song tutorials (launching player/time pass), academic courses (auto-opening syllabus), or digital store products (launching instant M-Pesa prompt).",
+  "latest_version": "1.0.30",
+  "latest_build_number": 37,
+  "apk_url": "https://github.com/kmcdata25-netizen/kasarani-app-releases/releases/download/v1.0.30/Kasarani_Music_Center_v1.0.30_b37.apk",
+  "release_notes": "v1.0.30+37 - Guest Masterclass Catalog Isolation & Live Broadcast UI Cleanup\n- Academic Catalog Quarantine: Completely excluded the backend container course \"Guest Song Tutorials & Masterclasses\" from the Full-Term Masterclasses academic syllabus tab; academic catalog strictly and solely displays genuine degree & diploma syllabi.\n- Removed Live Broadcast Icon on Guest Panel: Removed the (( . )) Live Studio broadcast icon (Icons.sensors_rounded) from the AppBar when guests view song tutorials and video masterclasses.\n- Preserved Dedicated Tutorial Hub: On-demand song tutorials and micro-passes continue to stream reliably under the \"Tutorial Passes\" tab and the Public Guest Hub.",
   "force_update": false
 }
