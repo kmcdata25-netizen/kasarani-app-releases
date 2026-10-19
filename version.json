@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.0.26",
-  "latest_build_number": 33,
-  "apk_url": "https://github.com/kmcdata25-netizen/kasarani-app-releases/releases/download/v1.0.26/Kasarani_Music_Center_v1.0.26_b33.apk",
-  "release_notes": "v1.0.26+33 - Zero Mock Data Guarantee, Strict Video Paywall & Central Mind Enrollment Sync\n- Zero Static / Mock Data: Completely purged synthetic tutorial generation and stock imagery from the catalog. All video masterclasses strictly query genuine database records.\n- Strict Item-Specific Video Paywall: Eliminated global pass fallback keys. Standalone tutorial video passes strictly require a valid time pass or free preview before playback begins.\n- Course Enrollment Ground Truth: Fixed relational linking on course enrollments so active courses (e.g. Piano) correctly reflect 'Enrolled • Continue Learning' in the catalog and accurately resolve instructor Ondere Karbon across profile, progress, and dashboard screens.\n- Clean Unoccupied Phone Inputs: Standardized all M-Pesa payment inputs across all screens to start completely empty with an unobtrusive hint (e.g. 0712345678).",
+  "latest_version": "1.0.27",
+  "latest_build_number": 34,
+  "apk_url": "https://github.com/kmcdata25-netizen/kasarani-app-releases/releases/download/v1.0.27/Kasarani_Music_Center_v1.0.27_b34.apk",
+  "release_notes": "v1.0.27+34 - Dedicated Guest Catalog Hub, Robust Null Safety & Zero Emoji Polish\n- Resolved White/Grey Blank Card Exception: Hardened Public Catalog card renderer with complete null-coalescing fallbacks for dynamic video tutorial items (e.g. yuyuyuyuyu) with graceful thumbnail and gradient fallback.\n- Dedicated Guest Feeding Channel: On-demand song tutorials and masterclasses directly exposed under public guest catalog with time-rated access.\n- Streamlined Landing Page Action: Simplified the guest launch action to a clean, robust, and un-obnoxious 'Guest' button.\n- 100% Emoji Eradication: Purged all legacy emojis across buttons, badges, categories, and snackbars in favor of clean Material Icons.",
   "force_update": false
 }
