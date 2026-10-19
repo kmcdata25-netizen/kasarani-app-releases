@@ -1,12 +1,12 @@
 {
   "app_name": "KMC Director & Administration Portal",
   "platform": "windows-x64",
-  "latest_version": "1.0.8",
-  "latest_build_number": 8,
+  "latest_version": "1.0.9",
+  "latest_build_number": 9,
   "release_date": "2026-10-19",
   "asar_url": "https://pub-6948b1af583e463d820d8e5072d205a1.r2.dev/releases/admin/app.asar",
-  "zip_url": "https://pub-6948b1af583e463d820d8e5072d205a1.r2.dev/releases/admin/KMC_Admin_Portal_v1.0.8_win64.zip",
-  "installer_url": "https://github.com/kmcdata25-netizen/kasarani-app-releases/releases/tag/admin-v1.0.8",
-  "release_notes": "v1.0.8+8 - Dedicated Two-Panel Split: Registered Student Store vs Guest Hub & Public Catalog\n- Established Two Authoritative Feeding Panels: Registered Student Store & Portal Materials (feeding enrolled student uniforms, merch & curriculum) and Guest Hub & Public Catalog (feeding public on-demand song tutorials, digital PDFs, and streaming tiers)\n- Dedicated Guest Hub Screen: Manage song tutorials (e.g. yuyuyuyuyu, Jehovah Is Your Name), Cloudflare R2 video/PDF uploads, micro-tuition pricing (10 KES / 1 hr), digital store e-books (Music Theory for 1 KES), and streaming pass tiers\n- Live Guest Entries & Pass Roster: Real-time table auditing all guest admissions, M-Pesa receipt codes, phone numbers, active/expired statuses, remaining time countdowns, with quick actions to extend (+60m), revoke, or grant manual passes",
+  "zip_url": "https://pub-6948b1af583e463d820d8e5072d205a1.r2.dev/releases/admin/KMC_Admin_Portal_v1.0.9_win64.zip",
+  "installer_url": "https://github.com/kmcdata25-netizen/kasarani-app-releases/releases/tag/admin-v1.0.9",
+  "release_notes": "v1.0.9+9 - Eradication of Redundant Time Tiers & Dedicated Digital Guest Pass Architecture\n- Eliminated redundant 'Time Pass Streaming Tiers' sub-tab and stats card from Guest Hub, streamlining public offerings to Song Tutorials, Digital PDFs, and Live Guest Admissions Roster\n- Removed obsolete Sidebar Item 10 ('Time-Rated Passes'): Physical studios are strictly reserved for enrolled students in full courses with faculty; walk-in studio passes permanently decommissioned\n- Granular 1-Hr, 2-Hr, and Full Lifetime Unlock: Song tutorials and bite-sized guest masterclasses now directly and exclusively define their own micro-tuition rates\n- Unified Student Checkout: Public catalog pass duration modal now dynamically loads each tutorial's exact 1-hour, 2-hour, and full unlock pricing",
   "force_update": false
 }
