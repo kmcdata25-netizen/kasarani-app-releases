@@ -1,12 +1,12 @@
 {
   "app_name": "KMC Director & Administration Portal",
   "platform": "windows-x64",
-  "latest_version": "1.0.9",
-  "latest_build_number": 9,
+  "latest_version": "1.0.10",
+  "latest_build_number": 10,
   "release_date": "2026-10-19",
   "asar_url": "https://pub-6948b1af583e463d820d8e5072d205a1.r2.dev/releases/admin/app.asar",
-  "zip_url": "https://pub-6948b1af583e463d820d8e5072d205a1.r2.dev/releases/admin/KMC_Admin_Portal_v1.0.9_win64.zip",
-  "installer_url": "https://github.com/kmcdata25-netizen/kasarani-app-releases/releases/tag/admin-v1.0.9",
-  "release_notes": "v1.0.9+9 - Eradication of Redundant Time Tiers & Dedicated Digital Guest Pass Architecture\n- Eliminated redundant 'Time Pass Streaming Tiers' sub-tab and stats card from Guest Hub, streamlining public offerings to Song Tutorials, Digital PDFs, and Live Guest Admissions Roster\n- Removed obsolete Sidebar Item 10 ('Time-Rated Passes'): Physical studios are strictly reserved for enrolled students in full courses with faculty; walk-in studio passes permanently decommissioned\n- Granular 1-Hr, 2-Hr, and Full Lifetime Unlock: Song tutorials and bite-sized guest masterclasses now directly and exclusively define their own micro-tuition rates\n- Unified Student Checkout: Public catalog pass duration modal now dynamically loads each tutorial's exact 1-hour, 2-hour, and full unlock pricing",
+  "zip_url": "https://pub-6948b1af583e463d820d8e5072d205a1.r2.dev/releases/admin/KMC_Admin_Portal_v1.0.10_win64.zip",
+  "installer_url": "https://github.com/kmcdata25-netizen/kasarani-app-releases/releases/tag/admin-v1.0.10",
+  "release_notes": "v1.0.10+10 - Streamlined Single Entry Point for Song Tutorials & Clean Separation of Course Video Lessons\n- Guest Hub & Catalog: Designated as the sole, authoritative entry point for on-demand public song tutorials and masterclasses with micro-tuition time passes (10/20/250 BOB)\n- Upgraded Upload Engine: Prominent Cloudflare R2 MP4 video and PDF sheet music upload cards with real-time byte progress indicators and instant status verification\n- Rebranded Course Video Lessons: Rebranded Sidebar Item 8 to 'Course Video Lessons' (badge: 'Syllabus'), exclusively dedicated to enrolled student curriculum lessons accessible via course tuition with zero time-pass prompts\n- Automated Container Course: Auto-provisions and groups guest tutorials under 'Guest Song Tutorials & Masterclasses', ensuring zero accidental clutter in academic syllabi\n- In-App Auto-Updater: Zero-egress Cloudflare R2 ASAR delivery ready for 1-click update across all school administrator terminals",
   "force_update": false
 }
