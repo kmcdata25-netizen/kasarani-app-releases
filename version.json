@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.0.28",
-  "latest_build_number": 35,
-  "apk_url": "https://github.com/kmcdata25-netizen/kasarani-app-releases/releases/download/v1.0.28/Kasarani_Music_Center_v1.0.28_b35.apk",
-  "release_notes": "v1.0.28+35 - Content-Level Streaming Rates & Dedicated Digital Guest Pass Architecture\n- Dynamic Content Rates: Song tutorials and masterclasses directly supply their own 1-Hour Stream Pass, 2-Hours Practice Pass, and Full Lifetime Unlock prices.\n- Purged Detached Pass Fluff: Eradicated detached generic time-pass cards in storefront; guests and students now directly browse real song tutorials and digital scores.\n- Universal Duration Selector: Seamlessly integrated tutorial rates across public catalog, course syllabus previews, and in-session extensions.",
+  "latest_version": "1.0.29",
+  "latest_build_number": 36,
+  "apk_url": "https://github.com/kmcdata25-netizen/kasarani-app-releases/releases/download/v1.0.29/Kasarani_Music_Center_v1.0.29_b36.apk",
+  "release_notes": "v1.0.29+36 - Promotional Deep-Linking & Complete Purge of Synthetic Video Tutorials from Public Catalog\n- Eradicated Static Data: 100% eliminated fake/synthetic video tutorials and syllabus lesson fallbacks from the public catalog; strictly renders genuine database guest tutorials with verified time_pass_enabled = true.\n- Default Public Catalog View: Set 'All Items' as the primary first view displaying authentic digital music books and student store merchandise.\n- Dynamic Poster Deep-Linking: Launch posters now deep-link directly to specific song tutorials (launching player/time pass), academic courses (auto-opening syllabus), or digital store products (launching instant M-Pesa prompt).",
   "force_update": false
 }
