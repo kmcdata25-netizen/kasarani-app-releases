@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.0.27",
-  "latest_build_number": 34,
-  "apk_url": "https://github.com/kmcdata25-netizen/kasarani-app-releases/releases/download/v1.0.27/Kasarani_Music_Center_v1.0.27_b34.apk",
-  "release_notes": "v1.0.27+34 - Dedicated Guest Catalog Hub, Robust Null Safety & Zero Emoji Polish\n- Resolved White/Grey Blank Card Exception: Hardened Public Catalog card renderer with complete null-coalescing fallbacks for dynamic video tutorial items (e.g. yuyuyuyuyu) with graceful thumbnail and gradient fallback.\n- Dedicated Guest Feeding Channel: On-demand song tutorials and masterclasses directly exposed under public guest catalog with time-rated access.\n- Streamlined Landing Page Action: Simplified the guest launch action to a clean, robust, and un-obnoxious 'Guest' button.\n- 100% Emoji Eradication: Purged all legacy emojis across buttons, badges, categories, and snackbars in favor of clean Material Icons.",
+  "latest_version": "1.0.28",
+  "latest_build_number": 35,
+  "apk_url": "https://github.com/kmcdata25-netizen/kasarani-app-releases/releases/download/v1.0.28/Kasarani_Music_Center_v1.0.28_b35.apk",
+  "release_notes": "v1.0.28+35 - Content-Level Streaming Rates & Dedicated Digital Guest Pass Architecture\n- Dynamic Content Rates: Song tutorials and masterclasses directly supply their own 1-Hour Stream Pass, 2-Hours Practice Pass, and Full Lifetime Unlock prices.\n- Purged Detached Pass Fluff: Eradicated detached generic time-pass cards in storefront; guests and students now directly browse real song tutorials and digital scores.\n- Universal Duration Selector: Seamlessly integrated tutorial rates across public catalog, course syllabus previews, and in-session extensions.",
   "force_update": false
 }
